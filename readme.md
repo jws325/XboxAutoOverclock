@@ -1,4 +1,4 @@
-XboxOverclock
+XboxAutoOverclock
 ============
 
 XboxOverclock will allow you to overclock the FSB and NVCLK via software.\
