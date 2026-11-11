@@ -1,17 +1,17 @@
 XboxOverclock
 ============
 
-XboxOverclock will allow you to overclock the FSB and NVCLK via software. It uses infromation gained from [XBOverclock](https://github.com/WulfyStylez/XBOverclock) by WulfyStylez.
+XboxOverclock will allow you to overclock the FSB and NVCLK via software.\
+It it forked from [XboxOverclock](https://github.com/GXTX/XboxOverclock) by GXTX.
 
 Building
 ---------
 
 See the requirements for [nxdk](https://github.com/XboxDev/nxdk/wiki/Install-the-Prerequisites).
 
-
 ```sh
-git clone https://github.com/GXTX/XboxOverclock
-cd XboxOverclock
+git clone https://github.com/jws325/XboxAutoOverclock
+cd XboxAutoOverclock
 eval $(../nxdk/bin/activate -s) make -f Makefile.nxdk
 ```
 
