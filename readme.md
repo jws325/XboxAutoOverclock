@@ -20,7 +20,10 @@ Then you'll have the xbe in the `bin` folder.
 Running
 ---------
 
-Once you boot into the xbe you'll see a prompt. Use the left and right D-Pad to change the wanted FSB frequency, use the up and down D-Pad to change NVCLK frequency.
+1. Save your preferred values in config.ini
+2. Copy config.ini and default.xbe to the Xbox HDD directory E:\Apps\XboxAutoOC
+3. Run default.xbe to overclock your Xbox.\
+   If it works, it will turn the screen black then kick you back to the dashboard.
 
 Hints
 ---------
