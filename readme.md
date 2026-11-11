@@ -1,7 +1,10 @@
 XboxAutoOverclock
 ============
 
-XboxOverclock will allow you to overclock the FSB and NVCLK via software.\
+XboxOverclock will allow you to overclock the FSB and NVCLK via software.
+
+Your overclock settings are specified in config.ini so you don't need to use a clunky custom UI to set them every time you use your Xbox.
+
 It it forked from [XboxOverclock](https://github.com/GXTX/XboxOverclock) by GXTX.
 
 Building
